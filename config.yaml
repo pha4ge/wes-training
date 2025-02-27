@@ -14,9 +14,6 @@
 # See https://carpentries.github.io/sandpaper-docs/editing.html#adding-a-custom-logo
 carpentry: 'pha4ge'
 
-varnish:
-    'pha4ge/varnish
-
 # Alt-text description of the lesson.
 carpentry_description: 'Lesson Description'
 
@@ -85,5 +82,4 @@ profiles:
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
 
-varnish:
-    'pha4ge/varnish'
+varnish:'pha4ge/varnish'
